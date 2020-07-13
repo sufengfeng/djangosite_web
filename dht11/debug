@@ -1,0 +1,2002 @@
+Traceback (most recent call last):
+  File "publish_mqtt.py", line 83, in <module>
+    GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 67, in GetDht11Value
+    iret,humidity,temperature=GetDht11Value()
+  File "publish_mqtt.py", line 65, in GetDht11Value
+    dht11.Dht11Init()
+  File "/home/pi/dht11/dht11.py", line 22, in Dht11Init
+    ret=library.Dht11Init()
+RuntimeError: maximum recursion depth exceeded while calling a Python object
