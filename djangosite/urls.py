@@ -21,8 +21,8 @@ urlpatterns = [
     #url(r'app', include('app.urls')),   #新增本行
 
     url(r'^$', views.index),
-    url(r'^$', views.hello),
-    url(r'form', views.form),
+    # url(r'^$', views.hello),
+    # url(r'form', views.form),
     url(r'gettemp', views.gettemp),
     url(r'index', views.index),
     url(r'^admin/', admin.site.urls),
